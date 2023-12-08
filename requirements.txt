@@ -1,0 +1,11 @@
+scikit-learn<1.0
+scipy<1.10
+numpy
+sklearn==0.0.post9
+./kernel/kerneloptimizer-0.0.4-py3-none-any.whl
+matplotlib
+plotly
+pandas
+seaborn
+openpyxl
+joblib

@@ -1,0 +1,19 @@
+base 	 parameters 	 size base 	 class 1 (%) class 2 (%)
+australian 	 14 	 690 	 55.51 	 44.49
+banknote 	 4 	 1372 	 55.54 	 44.46
+breastcancer 	 12 	 569 	 62.74 	 37.26
+breastHess 	 30 	 133 	 25.56 	 74.44
+bupa 	 6 	 345 	 57.97 	 42.03
+climate 	 20 	 540 	 8.52 	 91.48
+diabetes 	 8 	 768 	 34.9 	 65.1
+fertility 	 16 	 100 	 88.0 	 12.0
+german 	 24 	 1000 	 30.0 	 70.0
+glass 	 9 	 214 	 67.29 	 32.709999999999994
+golub 	 50 	 72 	 34.72 	 65.28
+haberman 	 3 	 306 	 26.47 	 73.53
+heart 	 13 	 270 	 55.56 	 44.44
+ilpd 	 10 	 579 	 28.5 	 71.5
+ionosphere 	 33 	 351 	 35.9 	 64.1
+parkinsons 	 22 	 195 	 24.62 	 75.38
+sonar 	 60 	 208 	 46.63 	 53.37
+spirals 	 2 	 300 	 50.0 	 50.0
