@@ -9,3 +9,5 @@ python3 -m pip install -r requeriments.txt
 ```
 python3 test_hebbian.py
 ```
+
+## Cite us
